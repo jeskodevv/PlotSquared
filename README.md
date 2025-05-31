@@ -33,7 +33,7 @@ _Ushbu plugin ochiq manbali bo'lgani uchun uni asosiy qismlarini o'zbek tiliga t
 * [Event API](https://intellectualsites.gitbook.io/plotsquared/api/event-api)
 * [Flag API](https://intellectualsites.gitbook.io/plotsquared/api/flag-api)
 
-# Rasmiy qo'shimchalar (_o'rnatish tavfsiya etiladi_)
+### Rasmiy qo'shimchalar (_o'rnatish tavfsiya etiladi_)
 
 * [Plot2Dynmap](http://www.spigotmc.org/resources/plot2dynmap.1292/)
 * [HoloPlots](https://www.spigotmc.org/resources/holoplots.4880/)
