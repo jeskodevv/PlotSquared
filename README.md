@@ -4,18 +4,17 @@
 
 ---
 
-PlotSquared is a land and world management plugin for Minecraft.
-It includes several highly configurable world generators.
-You can create plots of land in existing worlds using plot clusters, or you can have a full world of plots.
+PlotSquared minecraftda to'rtburchak hududlarni bosqaruv plugini.
+U kuchli sozlanadigan dunyo generatorlarini o‘z ichiga oladi.
+Siz mavjud dunyolarda yer uchastkalarini (plotlarni) yaratishingiz yoki to‘liq plotlardan iborat yangi dunyoni kashf qilishingiz mumkin.
 
-For the end user, PlotSquared is packed with a tonne of cool features.
-It allows you to merge plots, and build together with your friends.
-You can also change a lot of plot specific settings in the form of
-flags. Such as: weather, time, game modes, pvp status.
+Foydalanuvchilar uchun, PlotSquared ko‘plab ajoyib xususiyatlarga ega.
+U sizga plotlarni birlashtirishga va do‘stlaringiz bilan birga qurishga imkon beradi.
+Shuningdek, siz plotga oid ko‘plab sozlamalarni flags shaklida o‘zgartirishingiz mumkin. Masalan: ob-havo, vaqt, o‘yin rejimlari, PVP holati.
 
-Whilst we provide a whole load of unique features, the biggest focus
-is to provide a lag-free and smooth experience.
+"Bizning asosiy maqsadimiz – tejamkor va barqaror ishlaydigan plugin taqdim etishdir" deb yozadi plugin dasturchilari.
 
+_Ushbu plugin ochiq manbali bo'lgani uchun uni asosiy qismlarini o'zbek tiliga tajrima qilib tarqatishga qaror qildim_
 
 <p align="center">
     <a href="https://bstats.org/plugin/bukkit/PlotSquared" title="PlotSquared on bStats">
@@ -23,22 +22,18 @@ is to provide a lag-free and smooth experience.
     </a>
 </p>
 
-## Links
+## Foydali havolalar
 
-* [Download](https://www.spigotmc.org/resources/77506/)
-* [Discord](https://discord.gg/intellectualsites)
-* [Wiki](https://intellectualsites.gitbook.io/plotsquared/)
-* [Issues](https://github.com/IntellectualSites/PlotSquared/issues)
-* [Translations](https://intellectualsites.crowdin.com/plotsquared/)
-* [Contributing](https://github.com/IntellectualSites/.github/blob/main/CONTRIBUTING.md)
+* [Yuklab olish](https://www.spigotmc.org/resources/77506/)
+* [Qo'llanma](https://intellectualsites.gitbook.io/plotsquared/)
 
-### Developer Resources
+### Dasturchilar uchun
 
-* [API Documentation](https://intellectualsites.gitbook.io/plotsquared/api/api-documentation)
+* [API Dokumentatsiyasi](https://intellectualsites.gitbook.io/plotsquared/api/api-documentation)
 * [Event API](https://intellectualsites.gitbook.io/plotsquared/api/event-api)
 * [Flag API](https://intellectualsites.gitbook.io/plotsquared/api/flag-api)
 
-# Official Addons
+# Rasmiy qo'shimchalar (_o'rnatish tavfsiya etiladi_)
 
 * [Plot2Dynmap](http://www.spigotmc.org/resources/plot2dynmap.1292/)
 * [HoloPlots](https://www.spigotmc.org/resources/holoplots.4880/)
